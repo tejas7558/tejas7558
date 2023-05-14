@@ -1,5 +1,7 @@
-# 💫 About Me:
-Hi 👋, I'm Tejas Sonawane<br>💫 About Me:<br>🌱I'm curruently Learning Full Stack Web Development.<br><br>
+<img src="octocat.png">
+<h1 align="center">Hi 👋, I'm Tejas Sonawane</h1>
+<h2 align="center"> 💫 About Me:<h2>
+<p align="center">🌱I'm curruently Learning Full Stack Web Development.</p>>
 
 
 ## 🌐 Socials:
